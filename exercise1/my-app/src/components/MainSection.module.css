@@ -1,0 +1,19 @@
+.container {
+    background-color:rgb(243, 240, 235);
+    display: flex;
+    padding: 16px;
+    height: 440px;
+    align-items: flex-start;
+    width: 35%;
+    margin-right: auto;
+    margin-top: 30px;
+    margin-left: 300px;
+    font-size: 17px;
+    font-weight: 600;
+}
+
+.header {
+    font-size: 24px;
+    font-weight: 700;
+    color: rgb(0,81,141);
+}
